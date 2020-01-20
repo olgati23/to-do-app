@@ -1,0 +1,18 @@
+body {
+  margin-left: 5%;
+}
+
+h1 {
+  margin-bottom: 5%;
+  font-weight: 500;
+  color: #303ba6;
+}
+
+form {
+  margin-left:10px;
+}
+
+button {
+  color:red;
+  margin: 2% 0 0 2%;
+}
